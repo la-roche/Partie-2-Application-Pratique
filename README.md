@@ -5,7 +5,7 @@ API backend de gestion d’articles de blog avec **Node.js**, **Express**, **SQL
 
 ## Présentation
 
-Ce projet a été réalisé dans le cadre d’un projet académique de **Licence 2 Informatique**.
+Ce projet a été réalisé dans le cadre académique du TP1 de INF222 projet, ou il etait question de developer une API backend que j'ai accompagnee d'un frontend pour gerer un blog simple.
 
 L’objectif est de développer une application simple de gestion de blog permettant :
 
