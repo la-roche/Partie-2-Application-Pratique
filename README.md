@@ -553,28 +553,6 @@ http://localhost:3000
 
 ---
 
-## Auteur
-
-**Ton nom ici**  
-Étudiant en Licence 2 Informatique
-
-### GitHub
-```bash
-https://github.com/ton-username
-```
-
----
-
-## Dépôt GitHub
-
-Dans le rapport, il faut fournir :
-- le lien du dépôt GitHub
-- le README
-- le code source
-- éventuellement le lien Swagger ou le lien de déploiement
-
----
-
 ## Conclusion
 
 Ce projet m’a permis de mettre en pratique :
@@ -586,3 +564,8 @@ Ce projet m’a permis de mettre en pratique :
 - la documentation d’API avec Swagger
 - la consommation d’une API avec un frontend simple en JavaScript
 
+---
+## Auteur
+
+**TAGOUDJEU TAWAMBA ROCHEFORT 24F2522**  
+Étudiant en Licence 2 Informatique
